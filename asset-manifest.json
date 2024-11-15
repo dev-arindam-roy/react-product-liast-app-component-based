@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-product-liast-app-component-based/static/css/main.31d6cfe0.css",
+    "main.js": "/react-product-liast-app-component-based/static/js/main.bfe28b2f.js",
+    "static/js/453.18e77f52.chunk.js": "/react-product-liast-app-component-based/static/js/453.18e77f52.chunk.js",
+    "index.html": "/react-product-liast-app-component-based/index.html",
+    "main.bfe28b2f.js.map": "/react-product-liast-app-component-based/static/js/main.bfe28b2f.js.map",
+    "453.18e77f52.chunk.js.map": "/react-product-liast-app-component-based/static/js/453.18e77f52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bfe28b2f.js"
+  ]
+}
